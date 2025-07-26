@@ -47,7 +47,9 @@ To get started with a specific project, follow these steps:
 4. Follow along with the YouTube tutorial series to build the projects step-by-step. You can use the `starter` code as a starting point and make changes as guided in the tutorial.
 
 5. If you encounter any issues or have questions during the tutorial, feel free to open an issue in this repository. We encourage collaboration and learning together!
-
+## Author
+Dancy Mabusha D
+Contact:mabushajan9@gmail.com
 
 
 
